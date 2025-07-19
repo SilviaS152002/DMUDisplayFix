@@ -1,0 +1,9 @@
+{
+	"Id": "NS15.DMUDisplayFix",
+	"Version": "1.0.0",
+	"DisplayName": "DMU Passenger Display Fix",
+	"Author": "NS15",
+	"EntryMethod": "DMUDisplayFix.Main.Load",
+	"AssemblyName": "DMUDisplayFix.dll",
+	"ManagerVersion": "0.27.3"
+}
