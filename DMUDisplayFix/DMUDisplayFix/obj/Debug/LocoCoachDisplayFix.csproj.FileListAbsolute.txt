@@ -1,9 +1,0 @@
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\bin\Debug\LocoCoachDisplayFix.dll
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\bin\Debug\LocoCoachDisplayFix.pdb
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\obj\Debug\LocoCoachDisplayFix.csproj.AssemblyReference.cache
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\obj\Debug\LocoCoachDisplayFix.GeneratedMSBuildEditorConfig.editorconfig
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\obj\Debug\LocoCoachDisplayFix.AssemblyInfoInputs.cache
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\obj\Debug\LocoCoachDisplayFix.AssemblyInfo.cs
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\obj\Debug\LocoCoachDisplayFix.csproj.CoreCompileInputs.cache
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\obj\Debug\LocoCoachDisplayFix.dll
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\LocoCoachDisplayFix\LocoCoachDisplayFix\obj\Debug\LocoCoachDisplayFix.pdb

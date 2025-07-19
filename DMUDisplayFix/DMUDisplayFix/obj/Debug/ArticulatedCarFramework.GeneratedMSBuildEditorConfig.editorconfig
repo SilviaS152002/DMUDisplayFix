@@ -1,8 +1,0 @@
-is_global = true
-build_property.RootNamespace = ArticulatedCarFramework
-build_property.ProjectDir = I:\SteamLibrary\steamapps\common\Railroader\dev_mods\RR_UMM_Template\RR_UMM_Template\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 

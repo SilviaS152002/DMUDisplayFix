@@ -1,9 +1,0 @@
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\bin\Release\DMUDisplayFix.dll
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\bin\Release\DMUDisplayFix.pdb
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\obj\Release\DMUDisplayFix.csproj.AssemblyReference.cache
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\obj\Release\DMUDisplayFix.GeneratedMSBuildEditorConfig.editorconfig
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\obj\Release\DMUDisplayFix.AssemblyInfoInputs.cache
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\obj\Release\DMUDisplayFix.AssemblyInfo.cs
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\obj\Release\DMUDisplayFix.csproj.CoreCompileInputs.cache
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\obj\Release\DMUDisplayFix.dll
-I:\SteamLibrary\steamapps\common\Railroader\dev_mods\DMUDisplayFix\DMUDisplayFix\obj\Release\DMUDisplayFix.pdb
